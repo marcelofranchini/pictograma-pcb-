@@ -1,0 +1,270 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Oct-25-2019 at 14:10:12 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PICTOGRAMA';
+ POST_TIME='Mar 20 2017 11:21:40';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ CN1 'CONECTOR _CONECTOR_CONECTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS18175@PICTOGRAMA.CONECTOR .NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins18175@pictograma.\conector .normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins18175@pictograma.\conector .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS7739@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins7739@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins7739@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9506@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9506@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9506@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9592@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9592@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9592@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8232@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8232@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8232@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8280@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8280@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8280@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8328@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8328@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8328@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9048@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9048@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9048@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9094@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9094@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9094@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9140@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9140@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9140@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9414@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9414@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9414@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'LED_LED32_LED':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9460@PICTOGRAMA.LED.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9460@pictograma.\led.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9460@pictograma.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS7952@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins7952@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins7952@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9310@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9310@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9310@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9651@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9651@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9651@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9671@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9671@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9671@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9691@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9691@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9691@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9711@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9711@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9711@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS7972@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins7972@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins7972@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS7992@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins7992@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins7992@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8012@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8012@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8012@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8032@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8032@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8032@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8538@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8538@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8538@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8558@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8558@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8558@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS8578@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins8578@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins8578@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RESISTOR2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PICTOGRAMA.SCHEMATIC1(SCH_1):INS9290@PICTOGRAMA.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@pictograma.schematic1(sch_1):ins9290@pictograma.\resistor.normal\(chips)',
+ P_PATH='@pictograma.schematic1(sch_1):page1_ins9290@pictograma.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

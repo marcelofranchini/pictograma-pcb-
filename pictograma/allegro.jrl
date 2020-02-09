@@ -1,0 +1,95 @@
+\t (00:03:11) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:03:11)     Journal start - Sun Feb 09 18:53:00 2020
+\t (00:03:11)         Host=DESKTOP-M2JV7VJ User=Marcelo Pid=10856 CPUs=8
+\t (00:03:11) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:11) 
+\d (00:03:11) Design opened: C:/Users/Marcelo/Desktop/projetos/Pictograma/pictograma/Pictograma.brd
+\i (00:03:11) generaledit 
+\i (00:04:02) pick grid -0.489 57.675
+\t (00:04:02) last pick:  -0.635 57.785
+\i (00:04:04) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:05) pick grid 79.466 60.671
+\t (00:04:05) last pick:  79.375 60.960
+\i (00:04:13) plot preview 
+\i (00:04:16) fillin confirm
+\i (00:04:18) plot 
+\i (00:04:27) plotwint initialize "Microsoft Print to PDF"
+\i (00:04:27) plotwint orientation 1
+\i (00:04:27) plotwint papername "A4"
+\i (00:04:27) plotwint copies 1
+\i (00:04:27) plotwint defaultsource 15
+\i (00:04:27) plotwint printquality 600
+\i (00:04:27) plotwint color 2
+\i (00:04:27) plotwint execute
+\i (00:05:22) pick grid -23.707 56.738
+\t (00:05:22) last pick:  -23.495 56.515
+\i (00:05:23) 3d 
+\i (00:05:24) generaledit 
+\i (00:05:25) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged ~All | 0
+\i (00:05:26) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 518 269 562 321 1 1 0 +
+\i (00:05:26) QtSignal 241.098 375.12 4.27609
+\i (00:05:27) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 348 386 392 438 1 0 +
+\i (00:05:27) QtSignal 0 172.492 234.582 -83.8226
+\i (00:05:28) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 419 422 463 474 1 1 0 +
+\i (00:05:28) QtSignal 227.233 267.19 -110.93
+\i (00:05:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 420 468 464 520 1 0 +
+\i (00:05:29) QtSignal 0 241.988 253.664 -145.567
+\i (00:05:31) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 84 286 128 338 1 1 0 +
+\i (00:05:31) QtSignal -20.6414 102.929 -8.52456
+\i (00:05:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 745 85 789 137 1 0 +
+\i (00:05:32) QtSignal 0 324.169 571.316 142.824
+\i (00:05:34) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 16777249 67108864 false 1
+\i (00:05:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 584 472 628 524 1 1 0 +
+\i (00:05:35) QtSignal 344.099 353.316 -148.579
+\i (00:05:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 584 472 628 524 1 0 +
+\i (00:05:35) QtSignal 0 344.099 353.316 -148.579
+\i (00:05:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 251 456 295 508 1 1 0 +
+\i (00:05:37) QtSignal 134.343 153.397 -136.531
+\i (00:05:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 251 456 295 508 1 0 +
+\i (00:05:37) QtSignal 0 134.343 153.397 -136.531
+\i (00:05:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 290 373 334 425 1 1 0 +
+\i (00:05:39) QtSignal 132.819 202.901 -74.0338
+\i (00:05:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 290 373 334 425 1 0 +
+\i (00:05:39) QtSignal 0 132.819 202.901 -74.0338
+\i (00:05:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 287 455 331 507 1 1 0 +
+\i (00:05:40) QtSignal 156.18 175.849 -135.778
+\i (00:05:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 287 455 331 507 1 0 +
+\i (00:05:40) QtSignal 0 156.18 175.849 -135.778
+\i (00:05:42) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 116 304 160 356 1 1 0 +
+\i (00:05:42) QtSignal 4.57588 117.08 -22.0782
+\i (00:05:42) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 125 322 169 374 1 0 +
+\i (00:05:42) QtSignal 0 15.6453 117.083 -35.6318
+\i (00:05:51) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:06:03) QtSignal pcb3dExport AQFileDialog filterChanged "PDF 3D (*.pdf)"
+\i (00:06:09) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:06:09) QtFillin C:/Users/Marcelo/Desktop/projetos/Pictograma/pictograma/picto3d.pdf
+\i (00:06:13) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:06:16) QtSignal pcb3dExport AQFileDialog filterChanged "PDF 2D (*.pdf)"
+\i (00:06:16) QtSignal m_gbOrientation m_rbPortrait toggled on
+\i (00:06:16) QtSignal m_gbSize m_cbPageSize CurrentIndexChanged Custom
+\i (00:06:16) QtSignal m_gbSize m_cbPageSize CurrentIndexChanged Letter
+\i (00:06:24) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:06:24) QtFillin C:/Users/Marcelo/Desktop/projetos/Pictograma/pictograma/picto2d.pdf
+\i (00:06:30) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:06:36) artwork 
+\i (00:06:40) setwindow form.film_control
+\i (00:06:40) FORM film_control filmtree 'MULTISEL YES' Camada_Contorno_Placas 
+\i (00:06:40) FORM film_control filmtree  Camada_Contorno_Placas 
+\i (00:06:46) FORM film_control filmtree 'MULTISEL YES' Camada_Inferior 
+\i (00:06:46) FORM film_control filmtree  Camada_Inferior 
+\i (00:06:47) FORM film_control filmtree 'MULTISEL NO' Camada_Contorno_Placas 
+\i (00:06:47) FORM film_control filmtree  Camada_Contorno_Placas 
+\i (00:06:48) FORM film_control filmtree 'MULTISEL NO' Camada_Inferior 
+\i (00:06:48) FORM film_control filmtree  Camada_Inferior 
+\i (00:06:51) FORM film_control filmtree 'MULTISEL YES' Camada_Contorno_Placas 
+\i (00:06:51) FORM film_control filmtree  Camada_Contorno_Placas 
+\i (00:06:59) FORM film_control filmtree 'MULTISEL NO' Camada_Contorno_Placas 
+\i (00:07:07) FORM film_control filmtree 'MULTISEL YES' Camada_Contorno_Placas 
+\i (00:07:11) FORM film_control create  
+\t (00:07:11) Checking db records
+\t (00:07:11)     checking for orphans...
+\t (00:07:37)     Checked 100 percent
+\t (00:07:55) Done dbdoctor.
+\t (00:07:55) Starting Create artwork films...
+\w (00:08:07) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:08:08) Artwork generated with warnings.

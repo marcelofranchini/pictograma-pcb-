@@ -1,0 +1,17 @@
+{ Using PSTWRITER 17.2.0 d001Oct-25-2019 at 15:05:51 }
+
+#1 WARNING(ORCAP-36050): No pins are present in D1. Ignoring this component in netlist.
+#2 WARNING(ORCAP-36050): No pins are present in D3. Ignoring this component in netlist.
+#3 WARNING(ORCAP-36050): No pins are present in D2. Ignoring this component in netlist.
+#4 WARNING(ORCAP-36050): No pins are present in D4. Ignoring this component in netlist.
+#5 WARNING(ORCAP-36006): Part Name "CONECTOR _CONECTOR_CONECTOR " is renamed to "CONECTOR _CONECTOR_CONECTOR".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\MARCELO FRANCHINI\DESKTOP\ORCAD\PICTOGRAMA\allegro/pstchip.dat
+
+Loading... C:\USERS\MARCELO FRANCHINI\DESKTOP\ORCAD\PICTOGRAMA\allegro/pstchip.dat
+
+Loading... C:\USERS\MARCELO FRANCHINI\DESKTOP\ORCAD\PICTOGRAMA\allegro/pstxprt.dat
+
+Loading... C:\USERS\MARCELO FRANCHINI\DESKTOP\ORCAD\PICTOGRAMA\allegro/pstxnet.dat
+packaging the design view...

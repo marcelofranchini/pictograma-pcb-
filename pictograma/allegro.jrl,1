@@ -1,0 +1,193 @@
+\t (00:03:39) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:03:39)     Journal start - Sun Feb 09 18:36:17 2020
+\t (00:03:39)         Host=DESKTOP-M2JV7VJ User=Marcelo Pid=5268 CPUs=8
+\t (00:03:39) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:39) 
+\d (00:03:39) Design opened: C:/Users/Marcelo/Desktop/projetos/Pictograma/Pictograma.brd
+\i (00:03:39) generaledit 
+\i (00:03:48) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:03:49) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:03:52) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:03:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Camada_Contorno_Placas"
+\i (00:03:57) color -globvis off 
+\i (00:03:57) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:03:57) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:57) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:03:57) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:03:57) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:03:57) color -vis ETCH/BOND_BOTTOM 
+\i (00:03:57) color -vis ETCH/BOND_TOP 
+\i (00:03:57) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:57) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:03:57) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:03:57) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:03:57) trapsize 949
+\i (00:03:57) generaledit 
+\i (00:04:00) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Camada_Inferior"
+\i (00:04:00) color -globvis off 
+\i (00:04:00) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:00) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:04:00) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:04:00) color -vis ETCH/BOTTOM 
+\i (00:04:00) color -vis ETCH/BOND_BOTTOM 
+\i (00:04:00) color -vis ETCH/BOND_TOP 
+\i (00:04:00) color -vis PIN/BOTTOM 
+\i (00:04:00) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:04:00) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:04:00) color -vis BOUNDARY/BOTTOM 
+\i (00:04:00) color -vis CAVITY/BOTTOM 
+\i (00:04:00) trapsize 949
+\i (00:04:00) generaledit 
+\i (00:04:03) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Camada_Mascara"
+\i (00:04:03) color -globvis off 
+\i (00:04:03) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:03) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:04:03) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:04:03) color -vis ETCH/BOND_BOTTOM 
+\i (00:04:03) color -vis ETCH/BOND_TOP 
+\i (00:04:03) color -vis PIN/SOLDERMASK_TOP 
+\i (00:04:03) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:04:03) trapsize 949
+\i (00:04:03) generaledit 
+\i (00:04:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Camada_SoldaSMD"
+\i (00:04:05) color -globvis off 
+\i (00:04:05) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:05) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:04:05) color -vis 'DRC ERROR CLASS/PASTEMASK_TOP' 
+\i (00:04:05) color -vis ETCH/BOND_BOTTOM 
+\i (00:04:05) color -vis ETCH/BOND_TOP 
+\i (00:04:05) color -vis PIN/PASTEMASK_TOP 
+\i (00:04:05) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (00:04:05) trapsize 949
+\i (00:04:06) generaledit 
+\i (00:04:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Camada_Topo"
+\i (00:04:08) color -globvis off 
+\i (00:04:08) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:08) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:04:08) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:04:08) color -vis ETCH/TOP 
+\i (00:04:08) color -vis ETCH/BOND_BOTTOM 
+\i (00:04:08) color -vis ETCH/BOND_TOP 
+\i (00:04:08) color -vis PIN/TOP 
+\i (00:04:08) color -vis 'VIA CLASS/TOP' 
+\i (00:04:08) color -vis 'ANTI ETCH/TOP' 
+\i (00:04:08) color -vis BOUNDARY/TOP 
+\i (00:04:08) color -vis CAVITY/TOP 
+\i (00:04:08) trapsize 949
+\i (00:04:08) generaledit 
+\i (00:04:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:04:18) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:20) pick grid 66.570 57.196
+\t (00:04:20) last pick:  66.675 57.150
+\i (00:04:21) pick grid dbl 66.570 57.196
+\t (00:04:21) last pick:  66.675 57.150
+\i (00:04:24) zoom fit 
+\i (00:04:24) trapsize 796
+\i (00:04:28) 3d 
+\i (00:04:30) generaledit 
+\i (00:04:31) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 638 214 681 266 1 1 0 +
+\i (00:04:31) QtSignal 298.3 466.32 45.915
+\i (00:04:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 609 172 652 224 1 0 +
+\i (00:04:32) QtSignal 0 267.449 461.376 77.644
+\i (00:04:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 609 162 652 214 1 1 0 +
+\i (00:04:32) QtSignal 264.365 464.46 85.1986
+\i (00:04:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 593 283 636 335 1 0 +
+\i (00:04:32) QtSignal 0 291.808 417.268 -6.21124
+\i (00:04:33) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 84 158 127 210 1 1 0 +
+\i (00:04:33) QtSignal -60.8707 141.692 88.2204
+\i (00:04:34) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 844 365 887 417 1 0 +
+\i (00:04:34) QtSignal 0 472.002 546.882 -68.1584
+\i (00:04:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 808 470 851 522 1 1 0 +
+\i (00:04:35) QtSignal 482.168 492.281 -147.481
+\i (00:04:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 800 367 843 419 1 0 +
+\i (00:04:35) QtSignal 0 445.464 519.111 -69.6693
+\i (00:04:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 800 367 843 419 1 1 0 +
+\i (00:04:35) QtSignal 445.464 519.111 -69.6693
+\i (00:04:35) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 800 367 843 419 1 0 +
+\i (00:04:35) QtSignal 0 445.464 519.111 -69.6693
+\i (00:04:37) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:04:44) 3d 
+\i (00:04:45) generaledit 
+\i (00:04:47) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:04:51) 3d 
+\i (00:04:52) generaledit 
+\i (00:04:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 746 378 789 430 1 1 0 +
+\i (00:04:53) QtSignal 414.853 481.862 -77.7987
+\i (00:04:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 767 447 810 499 1 0 +
+\i (00:04:54) QtSignal 0 448.982 473.569 -129.754
+\i (00:05:01) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 806 381 849 433 1 1 0 +
+\i (00:05:01) QtSignal 452.683 517.847 -80.0577
+\i (00:05:01) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 805 382 848 434 1 0 +
+\i (00:05:01) QtSignal 0 452.375 516.925 -80.8106
+\i (00:05:01) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 787 407 830 459 1 1 0 +
+\i (00:05:01) QtSignal 448.988 498.167 -99.6351
+\i (00:05:02) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 754 191 797 243 1 0 +
+\i (00:05:02) QtSignal 0 362.29 544.267 63.0085
+\i (00:05:02) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 705 180 748 232 1 1 0 +
+\i (00:05:02) QtSignal 328.767 517.507 71.2913
+\i (00:05:03) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 434 323 477 375 1 0 +
+\i (00:05:03) QtSignal 0 206.027 306.85 -36.3848
+\i (00:05:04) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 114 161 157 213 1 1 0 +
+\i (00:05:04) QtSignal -40.613 159.808 85.5979
+\i (00:05:05) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 599 431 642 483 1 0 +
+\i (00:05:05) QtSignal 0 340.722 375.146 -117.707
+\i (00:05:06) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 657 117 700 169 1 1 0 +
+\i (00:05:06) QtSignal 279.875 507.348 118.729
+\i (00:05:06) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 657 117 700 169 1 0 +
+\i (00:05:06) QtSignal 0 279.875 507.348 118.729
+\i (00:05:07) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 738 348 781 400 1 1 0 +
+\i (00:05:07) QtSignal 400.71 486.163 -55.2093
+\i (00:05:07) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 738 348 781 400 1 0 +
+\i (00:05:07) QtSignal 0 400.71 486.163 -55.2093
+\i (00:05:18) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:05:19) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 299 170 443 222 1 1 0 +
+\i (00:05:19) QtSignal 79.7419 437.757 -22.8312
+\i (00:05:19) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 338 275 482 327 1 0 +
+\i (00:05:19) QtSignal 0 113.669 346.463 -22.8312
+\i (00:05:28) QtSignal pcb3dViewerCamMenu Isometric triggered
+\i (00:05:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 119 549 263 601 1 1 0 +
+\i (00:05:29) QtSignal 81.7349 43.6118 -206.558
+\i (00:05:30) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 67 550 211 602 1 0 +
+\i (00:05:30) QtSignal 0 50.0557 11.3178 -207.311
+\i (00:05:30) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 42 567 186 619 1 1 0 +
+\i (00:05:30) QtSignal 39.9034 -9.28622 -220.112
+\i (00:05:30) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 42 567 186 619 1 0 +
+\i (00:05:30) QtSignal 0 39.9034 -9.28622 -220.112
+\i (00:05:30) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 42 567 186 619 1 1 0 +
+\i (00:05:30) QtSignal 39.9034 -9.28622 -220.112
+\i (00:05:31) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 125 509 269 561 1 0 +
+\i (00:05:31) QtSignal 0 73.1295 59.5986 -176.439
+\i (00:05:31) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 97 525 241 577 1 1 0 +
+\i (00:05:31) QtSignal 60.8244 37.4566 -188.487
+\i (00:05:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 104 540 248 592 1 0 +
+\i (00:05:32) QtSignal 0 69.7414 37.1515 -199.781
+\i (00:05:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 104 540 248 592 1 1 0 +
+\i (00:05:32) QtSignal 69.7414 37.1515 -199.781
+\i (00:05:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 79 470 223 522 1 0 +
+\i (00:05:32) QtSignal 0 32.845 43.2915 -147.073
+\i (00:05:34) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All ~TOP | 0
+\i (00:05:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 682 362 826 414 1 1 0 +
+\i (00:05:36) QtSignal 370.567 447.412 -65.7511
+\i (00:05:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 683 418 827 470 1 0 +
+\i (00:05:36) QtSignal 0 388.396 430.813 -107.918
+\i (00:05:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 472 274 616 326 1 1 0 +
+\i (00:05:37) QtSignal 214.339 345.287 0.511181
+\i (00:05:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 479 343 623 395 1 0 +
+\i (00:05:37) QtSignal 0 239.855 328.382 -51.4444
+\i (00:07:00) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged ~All | 2
+\i (00:07:05) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged ~All | 0
+\i (00:07:07) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemSelectionChanged All TOP CN1
+\i (00:07:08) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~CN1 | 2
+\i (00:07:09) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~CN1 | 0
+\i (00:07:09) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~L1 | 2
+\i (00:07:10) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~L1 | 0
+\i (00:07:11) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:07:34) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:07:35) QtSignal ColorVisibilityPane CVPGlobalVisRestore clicked
+\i (00:07:36) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:07:56) zoom fit 
+\i (00:07:56) trapsize 754
+\i (00:09:04) exit 
+\e (00:09:13) Do you want to save the changes you made to Pictograma.brd?
+\i (00:09:15) fillin no 
+\t (00:09:50)     Journal end - Sun Feb 09 18:42:28 2020

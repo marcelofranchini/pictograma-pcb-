@@ -1,0 +1,205 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Pictograma.brd                                )
+(    Software Version : 17.2S016                                      )
+(    Date/Time        : Fri Oct 25 15:42:18 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < Camada_Contorno_Placas >
+     TO FILE < C:/Users/Marcelo Franchini/Desktop/Orcad/Pictograma/Camada_Contorno_Placas.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (7.628 17.071)
+           ... using undefined line width of 0.100
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.100
+
+    WARNING: text composed 0 width line found at (8.998 12.051)
+           ... using undefined line width of 0.100
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.100
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+
+     Camada_Contorno_Placas created with warnings
+
+
+================================================================
+     PROCESSING FILM < Camada_Inferior >
+     TO FILE < C:/Users/Marcelo Franchini/Desktop/Orcad/Pictograma/Camada_Inferior.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+
+     Camada_Inferior created with warnings
+
+
+================================================================
+     PROCESSING FILM < Camada_Mascara >
+     TO FILE < C:/Users/Marcelo Franchini/Desktop/Orcad/Pictograma/Camada_Mascara.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.08661                                  DARK 
+  RECTANGLE  0.03937     x 0.08661       0.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.04724       0.000 NO     DARK 
+
+     Camada_Mascara created with warnings
+
+
+================================================================
+     PROCESSING FILM < Camada_SoldaSMD >
+     TO FILE < C:/Users/Marcelo Franchini/Desktop/Orcad/Pictograma/Camada_SoldaSMD.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  RECTANGLE  0.03150     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.04724       0.000 NO     DARK 
+
+     Camada_SoldaSMD created with warnings
+
+
+================================================================
+     PROCESSING FILM < Camada_Topo >
+     TO FILE < C:/Users/Marcelo Franchini/Desktop/Orcad/Pictograma/Camada_Topo.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  RECTANGLE  0.03150     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.11024     x 0.03937       0.000 NO     DARK 
+
+     Camada_Topo created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        Camada_Contorno_Placas created with warnings
+        Camada_Inferior created with warnings
+        Camada_Mascara created with warnings
+        Camada_SoldaSMD created with warnings
+        Camada_Topo created with warnings
+
+ ARTWORK had warnings
